@@ -1,46 +1,27 @@
 'use client'
-import { useState, useEffect, useRef, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
-
-const POLL_INTERVAL = 5000 // refresh every 5 seconds
 
 export default function Leaderboard() {
   const router = useRouter()
   const [entries, setEntries] = useState([])
   const [loading, setLoading] = useState(true)
+  const [refreshing, setRefreshing] = useState(false)
   const [me, setMe] = useState(null)
   const [lastUpdated, setLastUpdated] = useState(null)
-  const [secondsAgo, setSecondsAgo] = useState(0)
-  const [flash, setFlash] = useState({}) // {username: true} for XP-gain highlight
-  const prevEntries = useRef([])
-  const pollRef = useRef(null)
-  const tickRef = useRef(null)
 
-  const fetchLeaderboard = useCallback(async () => {
+  const fetchLeaderboard = useCallback(async (isRefresh = false) => {
     try {
+      if (isRefresh) setRefreshing(true)
       const res = await fetch('/api/leaderboard', { cache: 'no-store' })
       const data = await res.json()
-      const fresh = data.entries || []
-
-      // Detect XP gains and flash those rows
-      const gained = {}
-      fresh.forEach(e => {
-        const old = prevEntries.current.find(x => x.username === e.username)
-        if (old && e.totalXP > old.totalXP) gained[e.username] = true
-      })
-      if (Object.keys(gained).length > 0) {
-        setFlash(gained)
-        setTimeout(() => setFlash({}), 1500)
-      }
-
-      prevEntries.current = fresh
-      setEntries(fresh)
+      setEntries(data.entries || [])
       setLastUpdated(Date.now())
-      setSecondsAgo(0)
     } catch (e) {
-      // silently ignore network errors between polls
+      // ignore
     } finally {
       setLoading(false)
+      setRefreshing(false)
     }
   }, [])
 
@@ -48,19 +29,6 @@ export default function Leaderboard() {
     const u = sessionStorage.getItem('wq_user')
     setMe(u)
     fetchLeaderboard()
-
-    // Poll every 5 seconds
-    pollRef.current = setInterval(fetchLeaderboard, POLL_INTERVAL)
-
-    // Tick "X seconds ago" every second
-    tickRef.current = setInterval(() => {
-      setSecondsAgo(s => s + 1)
-    }, 1000)
-
-    return () => {
-      clearInterval(pollRef.current)
-      clearInterval(tickRef.current)
-    }
   }, [fetchLeaderboard])
 
   const myRank = entries.findIndex(e => e.username === me) + 1
@@ -98,30 +66,22 @@ export default function Leaderboard() {
       {/* Header */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '12px 16px', background: '#fff', borderRadius: '16px', boxShadow: '0 4px 16px rgba(0,0,0,.08)', marginBottom: '18px' }}>
         <button className="btn btn-ghost btn-sm" onClick={() => me ? router.push('/game') : router.push('/')}>← Back</button>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-          <div style={{ fontWeight: 800, color: 'var(--navy)' }}>🏆 Leaderboard</div>
-          {/* LIVE indicator */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: '5px', background: '#e8fff0', border: '1.5px solid var(--green)', borderRadius: '99px', padding: '3px 10px' }}>
-            <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: 'var(--green)', display: 'inline-block', animation: 'livePulse 1.5s ease-in-out infinite' }} />
-            <span style={{ fontSize: '.75rem', fontWeight: 700, color: '#2d8c00' }}>LIVE</span>
-          </div>
-        </div>
-        <div style={{ fontSize: '.75rem', color: '#aaa' }}>
-          {secondsAgo === 0 ? 'just now' : `${secondsAgo}s ago`}
+        <div style={{ fontWeight: 800, color: 'var(--navy)' }}>🏆 Leaderboard</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          {lastUpdated && (
+            <div style={{ fontSize: '.72rem', color: '#aaa' }}>
+              {new Date(lastUpdated).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+            </div>
+          )}
+          <button className="btn btn-ghost btn-sm" onClick={() => fetchLeaderboard(true)} disabled={refreshing}
+            style={{ padding: '6px 12px', fontSize: '.8rem' }}>
+            {refreshing ? '⏳' : '↻ Refresh'}
+          </button>
         </div>
       </div>
 
       <style>{`
-        @keyframes livePulse {
-          0%, 100% { opacity: 1; transform: scale(1); }
-          50% { opacity: .4; transform: scale(.8); }
-        }
-        @keyframes xpFlash {
-          0% { background: #fff; }
-          30% { background: #fffde7; border-color: #FFD700; }
-          100% { background: #fff; }
-        }
-        .lb-row.flashing { animation: xpFlash 1.5s ease forwards; }
+        @keyframes spin { to { transform: rotate(360deg); } }
       `}</style>
 
       {/* Podium (top 3) */}
@@ -184,7 +144,7 @@ export default function Leaderboard() {
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px' }}>
           <div style={{ fontWeight: 800, color: 'var(--navy)' }}>📋 All Players</div>
           <div style={{ fontSize: '.76rem', color: '#777', background: '#f0f4ff', padding: '4px 10px', borderRadius: '99px' }}>
-            Total XP · updates every 5s
+            Total XP
           </div>
         </div>
 
@@ -195,7 +155,7 @@ export default function Leaderboard() {
         ) : (
           entries.map((e, i) => (
             <div key={e.username}
-              className={`lb-row${e.username === me ? ' me' : ''}${flash[e.username] ? ' flashing' : ''}`}
+              className={`lb-row${e.username === me ? ' me' : ''}`}
               style={{ transition: 'background .4s' }}>
               <div className="lb-rank" style={{ color: i === 0 ? '#FFD700' : i === 1 ? '#C0C0C0' : i === 2 ? '#CD7F32' : '#777', fontWeight: 800 }}>
                 {i < 3 ? rankIcon(i + 1) : `#${i + 1}`}
@@ -204,7 +164,6 @@ export default function Leaderboard() {
               <div className="lb-name">
                 <div style={{ fontWeight: e.username === me ? 800 : 600 }}>
                   {e.username}{e.username === me ? ' (you)' : ''}
-                  {flash[e.username] && <span style={{ fontSize: '.75rem', color: 'var(--green)', marginLeft: '6px', fontWeight: 700 }}>+XP ⬆</span>}
                 </div>
                 <div style={{ fontSize: '.73rem', color: '#999' }}>
                   Day {Math.max(1, e.currentDay - 1)}/20 · {e.daysCompleted} done · 🔥{e.streak}
@@ -220,7 +179,7 @@ export default function Leaderboard() {
       </div>
 
       <div style={{ textAlign: 'center', marginTop: '14px', color: '#bbb', fontSize: '.76rem' }}>
-        Rankings update automatically every 5 seconds
+        Tap ↻ Refresh to see the latest rankings
       </div>
 
       {me && (
