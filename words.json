@@ -1,0 +1,3388 @@
+[
+  {
+    "word": "Aberration",
+    "pronunciation": "ab-uh-RAY-shun",
+    "definition": "A thing that differs from what is normal or expected; a departure from a moral standard.",
+    "synonyms": [
+      "anomaly",
+      "deviation",
+      "irregularity"
+    ],
+    "antonyms": [
+      "norm",
+      "standard",
+      "conformity"
+    ],
+    "example": "The teacher said the student's rude outburst was an aberration, since she was usually polite.",
+    "day": 1
+  },
+  {
+    "word": "Abject",
+    "pronunciation": "AB-jekt",
+    "definition": "Of the most miserable or degrading kind; showing complete lack of pride or dignity.",
+    "synonyms": [
+      "wretched",
+      "miserable",
+      "degraded"
+    ],
+    "antonyms": [
+      "dignified",
+      "proud",
+      "noble"
+    ],
+    "example": "Living in abject poverty, the family could barely afford one meal a day.",
+    "day": 1
+  },
+  {
+    "word": "Accord",
+    "pronunciation": "uh-KORD",
+    "definition": "Give or grant someone power or recognition; an official agreement or treaty.",
+    "synonyms": [
+      "agreement",
+      "harmony",
+      "treaty"
+    ],
+    "antonyms": [
+      "discord",
+      "disagreement",
+      "conflict"
+    ],
+    "example": "The two countries signed an accord to end the long dispute over the border.",
+    "day": 1
+  },
+  {
+    "word": "Admonish",
+    "pronunciation": "ad-MON-ish",
+    "definition": "Warn or reprimand someone firmly; urge someone earnestly to do or not to do something.",
+    "synonyms": [
+      "warn",
+      "reprimand",
+      "rebuke"
+    ],
+    "antonyms": [
+      "praise",
+      "commend",
+      "approve"
+    ],
+    "example": "The coach admonished the players to always play fairly and respect the referee.",
+    "day": 1
+  },
+  {
+    "word": "Abate",
+    "pronunciation": "uh-BAYT",
+    "definition": "Become less intense or widespread; lessen in force or intensity.",
+    "synonyms": [
+      "diminish",
+      "subside",
+      "decrease"
+    ],
+    "antonyms": [
+      "increase",
+      "intensify",
+      "amplify"
+    ],
+    "example": "After three days of heavy rain, the storm finally began to abate.",
+    "day": 1
+  },
+  {
+    "word": "Abeyance",
+    "pronunciation": "uh-BAY-uhns",
+    "definition": "A state of temporary disuse or suspension.",
+    "synonyms": [
+      "suspension",
+      "dormancy",
+      "inactivity"
+    ],
+    "antonyms": [
+      "activity",
+      "continuation",
+      "operation"
+    ],
+    "example": "The project was held in abeyance until more funding could be secured.",
+    "day": 1
+  },
+  {
+    "word": "Abyss",
+    "pronunciation": "uh-BIS",
+    "definition": "A deep or seemingly bottomless chasm; a wide or profound difference between people.",
+    "synonyms": [
+      "chasm",
+      "void",
+      "gulf"
+    ],
+    "antonyms": [
+      "peak",
+      "summit",
+      "surface"
+    ],
+    "example": "Standing at the cliff edge, she stared into the dark abyss below.",
+    "day": 1
+  },
+  {
+    "word": "Astronomical",
+    "pronunciation": "as-truh-NOM-i-kul",
+    "definition": "Relating to astronomy; extremely large; too large to be estimated.",
+    "synonyms": [
+      "enormous",
+      "immense",
+      "colossal"
+    ],
+    "antonyms": [
+      "tiny",
+      "minuscule",
+      "negligible"
+    ],
+    "example": "The cost of building a space station is astronomical — billions of dollars.",
+    "day": 1
+  },
+  {
+    "word": "Anecdote",
+    "pronunciation": "AN-ik-doht",
+    "definition": "A short amusing or interesting story about a real incident or person.",
+    "synonyms": [
+      "story",
+      "tale",
+      "account"
+    ],
+    "antonyms": [
+      "fiction",
+      "falsehood",
+      "fabrication"
+    ],
+    "example": "Grandpa always had a funny anecdote about his school days to share.",
+    "day": 1
+  },
+  {
+    "word": "Abdicate",
+    "pronunciation": "AB-di-kayt",
+    "definition": "Renounce one's throne; fail to fulfil a responsibility or duty.",
+    "synonyms": [
+      "renounce",
+      "resign",
+      "relinquish"
+    ],
+    "antonyms": [
+      "assume",
+      "claim",
+      "retain"
+    ],
+    "example": "The king chose to abdicate his throne so he could marry the woman he loved.",
+    "day": 1
+  },
+  {
+    "word": "Acidulous",
+    "pronunciation": "as-ID-yoo-lus",
+    "definition": "Sharp-tasting; slightly sour; bitter or cutting.",
+    "synonyms": [
+      "tart",
+      "sour",
+      "sharp"
+    ],
+    "antonyms": [
+      "sweet",
+      "bland",
+      "mild"
+    ],
+    "example": "The acidulous lemon juice made her pucker her lips.",
+    "day": 2
+  },
+  {
+    "word": "Accost",
+    "pronunciation": "uh-KAWST",
+    "definition": "Approach and address someone boldly or aggressively.",
+    "synonyms": [
+      "confront",
+      "approach",
+      "waylay"
+    ],
+    "antonyms": [
+      "avoid",
+      "retreat",
+      "shun"
+    ],
+    "example": "A street vendor accosted us the moment we stepped out of the hotel.",
+    "day": 2
+  },
+  {
+    "word": "Bohemian",
+    "pronunciation": "boh-HEE-mee-un",
+    "definition": "A person who lives an unconventional life, especially as an artist or writer.",
+    "synonyms": [
+      "unconventional",
+      "free-spirited",
+      "artistic"
+    ],
+    "antonyms": [
+      "conventional",
+      "conformist",
+      "traditional"
+    ],
+    "example": "The bohemian artist decorated her studio with colourful murals and odd sculptures.",
+    "day": 2
+  },
+  {
+    "word": "Bog",
+    "pronunciation": "BAWG",
+    "definition": "Wet muddy ground that is too soft to support a heavy body.",
+    "synonyms": [
+      "swamp",
+      "marsh",
+      "mire"
+    ],
+    "antonyms": [
+      "highland",
+      "plateau",
+      "solid ground"
+    ],
+    "example": "The hikers got their boots stuck when they wandered into the bog.",
+    "day": 2
+  },
+  {
+    "word": "Bolster",
+    "pronunciation": "BOHL-ster",
+    "definition": "Support or strengthen; a long firm pillow placed across a bed.",
+    "synonyms": [
+      "support",
+      "strengthen",
+      "reinforce"
+    ],
+    "antonyms": [
+      "undermine",
+      "weaken",
+      "diminish"
+    ],
+    "example": "More practice will bolster her confidence before the spelling competition.",
+    "day": 2
+  },
+  {
+    "word": "Baleful",
+    "pronunciation": "BAYL-fuhl",
+    "definition": "Threatening harm; having a harmful or destructive effect; menacing.",
+    "synonyms": [
+      "menacing",
+      "threatening",
+      "sinister"
+    ],
+    "antonyms": [
+      "benign",
+      "harmless",
+      "friendly"
+    ],
+    "example": "The villain shot a baleful glare at the hero across the room.",
+    "day": 2
+  },
+  {
+    "word": "Befuddle",
+    "pronunciation": "bi-FUD-ul",
+    "definition": "To confuse or make someone unable to think clearly.",
+    "synonyms": [
+      "confuse",
+      "perplex",
+      "bewilder"
+    ],
+    "antonyms": [
+      "clarify",
+      "enlighten",
+      "inform"
+    ],
+    "example": "The complicated instructions befuddled even the most experienced players.",
+    "day": 2
+  },
+  {
+    "word": "Behemoth",
+    "pronunciation": "bi-HEE-muth",
+    "definition": "A huge or monstrous creature; something enormous, especially a large and powerful organisation.",
+    "synonyms": [
+      "giant",
+      "colossus",
+      "leviathan"
+    ],
+    "antonyms": [
+      "dwarf",
+      "miniature",
+      "tiny thing"
+    ],
+    "example": "The new tech company quickly became a behemoth, overtaking all its rivals.",
+    "day": 2
+  },
+  {
+    "word": "Barb",
+    "pronunciation": "BAARB",
+    "definition": "A sharp projection near the end of an arrow or fishhook; a wounding remark.",
+    "synonyms": [
+      "jibe",
+      "insult",
+      "taunt"
+    ],
+    "antonyms": [
+      "compliment",
+      "praise",
+      "flattery"
+    ],
+    "example": "His witty barbs during the debate left his opponent speechless.",
+    "day": 2
+  },
+  {
+    "word": "Bantering",
+    "pronunciation": "BAN-tuh-ring",
+    "definition": "Exchanging remarks in a good-humoured teasing way; playful and witty conversation.",
+    "synonyms": [
+      "teasing",
+      "joking",
+      "jesting"
+    ],
+    "antonyms": [
+      "serious",
+      "solemn",
+      "formal"
+    ],
+    "example": "The two friends were bantering all afternoon, making everyone around them laugh.",
+    "day": 2
+  },
+  {
+    "word": "Benign",
+    "pronunciation": "bi-NINE",
+    "definition": "Gentle and kindly; of a disease not harmful in effect; not malignant.",
+    "synonyms": [
+      "harmless",
+      "gentle",
+      "kind"
+    ],
+    "antonyms": [
+      "malignant",
+      "harmful",
+      "malevolent"
+    ],
+    "example": "The doctor confirmed that the lump was benign and nothing to worry about.",
+    "day": 3
+  },
+  {
+    "word": "Bicker",
+    "pronunciation": "BIK-er",
+    "definition": "Argue about petty and trivial matters; quarrel in a petty manner.",
+    "synonyms": [
+      "quarrel",
+      "squabble",
+      "wrangle"
+    ],
+    "antonyms": [
+      "agree",
+      "concur",
+      "harmonize"
+    ],
+    "example": "The siblings would bicker endlessly about which TV show to watch.",
+    "day": 3
+  },
+  {
+    "word": "Boycott",
+    "pronunciation": "BOI-kot",
+    "definition": "Withdraw from commercial or social relations as punishment or protest; refuse to buy or use.",
+    "synonyms": [
+      "ban",
+      "embargo",
+      "shun"
+    ],
+    "antonyms": [
+      "support",
+      "patronize",
+      "endorse"
+    ],
+    "example": "The students decided to boycott the cafeteria to protest the poor food quality.",
+    "day": 3
+  },
+  {
+    "word": "Benevolent",
+    "pronunciation": "buh-NEV-uh-lent",
+    "definition": "Well-meaning and kindly; charitable rather than profit making.",
+    "synonyms": [
+      "charitable",
+      "kind",
+      "generous"
+    ],
+    "antonyms": [
+      "malevolent",
+      "cruel",
+      "selfish"
+    ],
+    "example": "The benevolent millionaire donated half his fortune to build schools in poor areas.",
+    "day": 3
+  },
+  {
+    "word": "Bovine",
+    "pronunciation": "BOH-vine",
+    "definition": "Of or relating to cattle; slow-moving, dull, or stupid.",
+    "synonyms": [
+      "dull",
+      "slow",
+      "stolid"
+    ],
+    "antonyms": [
+      "sharp",
+      "alert",
+      "clever"
+    ],
+    "example": "His bovine expression showed he had no idea what the joke meant.",
+    "day": 3
+  },
+  {
+    "word": "Cadaver",
+    "pronunciation": "kuh-DAV-er",
+    "definition": "A dead human body, especially one used for dissection in a medical school.",
+    "synonyms": [
+      "corpse",
+      "body",
+      "remains"
+    ],
+    "antonyms": [
+      "living being",
+      "organism"
+    ],
+    "example": "Medical students studied the cadaver carefully to understand human anatomy.",
+    "day": 3
+  },
+  {
+    "word": "Congenial",
+    "pronunciation": "kun-JEE-nee-uhl",
+    "definition": "Pleasing or liked on account of having qualities or interests in common; suited to one's taste.",
+    "synonyms": [
+      "pleasant",
+      "agreeable",
+      "compatible"
+    ],
+    "antonyms": [
+      "disagreeable",
+      "uncongenial",
+      "incompatible"
+    ],
+    "example": "She found the new city very congenial as the people were warm and welcoming.",
+    "day": 3
+  },
+  {
+    "word": "Carcinogenic",
+    "pronunciation": "kaar-si-no-JEN-ik",
+    "definition": "Having the potential to cause cancer; relating to a substance that causes cancer.",
+    "synonyms": [
+      "toxic",
+      "cancer-causing",
+      "harmful"
+    ],
+    "antonyms": [
+      "benign",
+      "safe",
+      "harmless"
+    ],
+    "example": "Doctors warn that smoking is carcinogenic and greatly increases the risk of lung cancer.",
+    "day": 3
+  },
+  {
+    "word": "Censure",
+    "pronunciation": "SEN-shur",
+    "definition": "Express severe disapproval of; an official reprimand.",
+    "synonyms": [
+      "condemn",
+      "criticize",
+      "reprimand"
+    ],
+    "antonyms": [
+      "praise",
+      "commend",
+      "approve"
+    ],
+    "example": "The committee voted to censure the official who had misused public funds.",
+    "day": 3
+  },
+  {
+    "word": "Carnage",
+    "pronunciation": "KAR-nij",
+    "definition": "The killing of large numbers of people; scenes of terrible destruction.",
+    "synonyms": [
+      "slaughter",
+      "massacre",
+      "bloodshed"
+    ],
+    "antonyms": [
+      "peace",
+      "preservation",
+      "harmony"
+    ],
+    "example": "The battlefield was a scene of carnage after the long and brutal conflict.",
+    "day": 3
+  },
+  {
+    "word": "Celestial",
+    "pronunciation": "suh-LES-tee-uhl",
+    "definition": "Positioned in or relating to the sky or outer space; belonging to heaven.",
+    "synonyms": [
+      "heavenly",
+      "divine",
+      "astronomical"
+    ],
+    "antonyms": [
+      "earthly",
+      "terrestrial",
+      "mundane"
+    ],
+    "example": "The astronomer spent nights mapping the celestial objects visible from the observatory.",
+    "day": 4
+  },
+  {
+    "word": "Centrifugal",
+    "pronunciation": "sen-TRIF-yoo-gul",
+    "definition": "Moving or tending to move away from a centre.",
+    "synonyms": [
+      "outward",
+      "diverging",
+      "radiating"
+    ],
+    "antonyms": [
+      "centripetal",
+      "inward",
+      "converging"
+    ],
+    "example": "Centrifugal force keeps water pressed against the sides of a spinning drum.",
+    "day": 4
+  },
+  {
+    "word": "Clique",
+    "pronunciation": "KLEEK",
+    "definition": "A small close-knit group of people who do not readily allow others to join them.",
+    "synonyms": [
+      "coterie",
+      "faction",
+      "circle"
+    ],
+    "antonyms": [
+      "community",
+      "open group",
+      "inclusive body"
+    ],
+    "example": "The popular clique sat together at lunch and rarely invited anyone new.",
+    "day": 4
+  },
+  {
+    "word": "Contentious",
+    "pronunciation": "kun-TEN-shus",
+    "definition": "Causing or likely to cause an argument; involving a heated argument.",
+    "synonyms": [
+      "controversial",
+      "disputed",
+      "argumentative"
+    ],
+    "antonyms": [
+      "uncontroversial",
+      "agreeable",
+      "peaceful"
+    ],
+    "example": "Whether homework should be banned is a contentious topic in most schools.",
+    "day": 4
+  },
+  {
+    "word": "Dapper",
+    "pronunciation": "DAP-er",
+    "definition": "Neat and trim in dress and appearance.",
+    "synonyms": [
+      "smart",
+      "natty",
+      "elegant"
+    ],
+    "antonyms": [
+      "slovenly",
+      "unkempt",
+      "scruffy"
+    ],
+    "example": "He arrived at the ceremony looking dapper in a pressed white shirt and blazer.",
+    "day": 4
+  },
+  {
+    "word": "Dainty",
+    "pronunciation": "DAYN-tee",
+    "definition": "Delicately small and pretty; fastidious about eating or other activities.",
+    "synonyms": [
+      "delicate",
+      "fine",
+      "petite"
+    ],
+    "antonyms": [
+      "gross",
+      "coarse",
+      "rough"
+    ],
+    "example": "She picked up the dainty china teacup with two careful fingers.",
+    "day": 4
+  },
+  {
+    "word": "Demerit",
+    "pronunciation": "dee-MER-it",
+    "definition": "A mark against someone's record for a fault or offence.",
+    "synonyms": [
+      "fault",
+      "flaw",
+      "shortcoming"
+    ],
+    "antonyms": [
+      "merit",
+      "virtue",
+      "commendation"
+    ],
+    "example": "He received a demerit for arriving late to class three days in a row.",
+    "day": 4
+  },
+  {
+    "word": "Dawdle",
+    "pronunciation": "DAW-dl",
+    "definition": "Move slowly and idly; take one's time; waste time.",
+    "synonyms": [
+      "loiter",
+      "linger",
+      "dally"
+    ],
+    "antonyms": [
+      "hurry",
+      "rush",
+      "hasten"
+    ],
+    "example": "Stop dawdling and get ready as the bus leaves in five minutes.",
+    "day": 4
+  },
+  {
+    "word": "Dais",
+    "pronunciation": "DAY-is",
+    "definition": "A low platform for a lectern, seats of honour, or a throne.",
+    "synonyms": [
+      "platform",
+      "podium",
+      "stage"
+    ],
+    "antonyms": [
+      "floor",
+      "ground level"
+    ],
+    "example": "The principal stood on the dais and addressed the entire school.",
+    "day": 4
+  },
+  {
+    "word": "Debris",
+    "pronunciation": "DEB-ree",
+    "definition": "Scattered pieces of rubbish or remains; loose natural material consisting of rock fragments.",
+    "synonyms": [
+      "rubble",
+      "wreckage",
+      "fragments"
+    ],
+    "antonyms": [
+      "wholeness",
+      "order",
+      "neatness"
+    ],
+    "example": "After the storm, the streets were littered with fallen branches and debris.",
+    "day": 4
+  },
+  {
+    "word": "Defeatist",
+    "pronunciation": "di-FEE-tist",
+    "definition": "A person who expects and accepts failure; excessively ready to accept defeat.",
+    "synonyms": [
+      "pessimist",
+      "fatalist",
+      "quitter"
+    ],
+    "antonyms": [
+      "optimist",
+      "achiever",
+      "go-getter"
+    ],
+    "example": "Be positive and keep trying — only a defeatist gives up before even starting.",
+    "day": 5
+  },
+  {
+    "word": "Deft",
+    "pronunciation": "DEFT",
+    "definition": "Demonstrating skill and cleverness; quick and neat in movement.",
+    "synonyms": [
+      "skillful",
+      "adroit",
+      "nimble"
+    ],
+    "antonyms": [
+      "clumsy",
+      "awkward",
+      "inept"
+    ],
+    "example": "With a deft flick of her wrist, she tied the bow perfectly.",
+    "day": 5
+  },
+  {
+    "word": "Delirium",
+    "pronunciation": "di-LIR-ee-um",
+    "definition": "An acutely disturbed state of mind with restlessness and incoherence; wild excitement.",
+    "synonyms": [
+      "frenzy",
+      "fever",
+      "madness"
+    ],
+    "antonyms": [
+      "clarity",
+      "calm",
+      "sanity"
+    ],
+    "example": "The crowd was in a state of delirium when their team scored the winning goal.",
+    "day": 5
+  },
+  {
+    "word": "Dishearten",
+    "pronunciation": "dis-HAR-tun",
+    "definition": "Cause to lose determination or confidence; discourage.",
+    "synonyms": [
+      "discourage",
+      "demoralize",
+      "dispirit"
+    ],
+    "antonyms": [
+      "encourage",
+      "inspire",
+      "motivate"
+    ],
+    "example": "Losing the first round should not dishearten you — keep trying and improving.",
+    "day": 5
+  },
+  {
+    "word": "Distrait",
+    "pronunciation": "di-STRAY",
+    "definition": "Distracted or absent-minded, especially because of worry or anxiety.",
+    "synonyms": [
+      "distracted",
+      "absent-minded",
+      "preoccupied"
+    ],
+    "antonyms": [
+      "attentive",
+      "focused",
+      "alert"
+    ],
+    "example": "She seemed distrait during class, gazing out of the window instead of listening.",
+    "day": 5
+  },
+  {
+    "word": "Docile",
+    "pronunciation": "DOH-syl",
+    "definition": "Ready to accept control or instruction; submissive; easy to manage.",
+    "synonyms": [
+      "submissive",
+      "obedient",
+      "compliant"
+    ],
+    "antonyms": [
+      "defiant",
+      "stubborn",
+      "obstinate"
+    ],
+    "example": "The normally lively puppy became docile after its long walk in the park.",
+    "day": 5
+  },
+  {
+    "word": "Dwindle",
+    "pronunciation": "DWIN-dl",
+    "definition": "Diminish gradually in size, amount, or strength.",
+    "synonyms": [
+      "decrease",
+      "diminish",
+      "shrink"
+    ],
+    "antonyms": [
+      "grow",
+      "increase",
+      "expand"
+    ],
+    "example": "As winter arrived, the daylight hours began to dwindle.",
+    "day": 5
+  },
+  {
+    "word": "Elicit",
+    "pronunciation": "i-LIS-it",
+    "definition": "Evoke or draw out a response, answer, or fact from someone.",
+    "synonyms": [
+      "evoke",
+      "draw out",
+      "extract"
+    ],
+    "antonyms": [
+      "suppress",
+      "stifle",
+      "repress"
+    ],
+    "example": "The teacher's clever question elicited a surprisingly thoughtful answer from the student.",
+    "day": 5
+  },
+  {
+    "word": "Eccentric",
+    "pronunciation": "ek-SEN-trik",
+    "definition": "Unconventional and slightly strange; not following the usual pattern.",
+    "synonyms": [
+      "quirky",
+      "unconventional",
+      "odd"
+    ],
+    "antonyms": [
+      "normal",
+      "conventional",
+      "ordinary"
+    ],
+    "example": "The eccentric inventor filled his house with robots and spinning contraptions.",
+    "day": 5
+  },
+  {
+    "word": "Ecstasy",
+    "pronunciation": "EK-stuh-see",
+    "definition": "An overwhelming feeling of great happiness or joyful excitement.",
+    "synonyms": [
+      "joy",
+      "bliss",
+      "euphoria"
+    ],
+    "antonyms": [
+      "misery",
+      "agony",
+      "despair"
+    ],
+    "example": "She was in pure ecstasy when she heard her name called as the winner.",
+    "day": 5
+  },
+  {
+    "word": "Emend",
+    "pronunciation": "ee-MEND",
+    "definition": "Make corrections and improvements to a text.",
+    "synonyms": [
+      "correct",
+      "revise",
+      "rectify"
+    ],
+    "antonyms": [
+      "corrupt",
+      "distort",
+      "damage"
+    ],
+    "example": "The editor emended several factual errors before the article went to print.",
+    "day": 6
+  },
+  {
+    "word": "Embellish",
+    "pronunciation": "em-BEL-ish",
+    "definition": "Make more attractive by adding ornamental features; make a story more interesting.",
+    "synonyms": [
+      "adorn",
+      "decorate",
+      "exaggerate"
+    ],
+    "antonyms": [
+      "simplify",
+      "strip",
+      "minimise"
+    ],
+    "example": "He had a habit of embellishing his stories to make them more exciting.",
+    "day": 6
+  },
+  {
+    "word": "Embrace",
+    "pronunciation": "im-BRAYS",
+    "definition": "Hold someone closely in one's arms; accept or support willingly.",
+    "synonyms": [
+      "hug",
+      "accept",
+      "adopt"
+    ],
+    "antonyms": [
+      "reject",
+      "resist",
+      "repel"
+    ],
+    "example": "She chose to embrace change rather than fear it.",
+    "day": 6
+  },
+  {
+    "word": "Endemic",
+    "pronunciation": "en-DEM-ik",
+    "definition": "Of a disease or condition regularly found among particular people or in a certain area.",
+    "synonyms": [
+      "native",
+      "indigenous",
+      "prevalent"
+    ],
+    "antonyms": [
+      "exotic",
+      "foreign",
+      "alien"
+    ],
+    "example": "Malaria is endemic in many tropical regions of Africa.",
+    "day": 6
+  },
+  {
+    "word": "Endorse",
+    "pronunciation": "en-DORS",
+    "definition": "Declare one's public approval or support of something.",
+    "synonyms": [
+      "support",
+      "approve",
+      "sanction"
+    ],
+    "antonyms": [
+      "oppose",
+      "reject",
+      "denounce"
+    ],
+    "example": "The famous athlete endorsed the sports drink by appearing in its advertisements.",
+    "day": 6
+  },
+  {
+    "word": "Evasive",
+    "pronunciation": "ih-VAY-siv",
+    "definition": "Tending to avoid commitment or self-revelation; evading or escaping.",
+    "synonyms": [
+      "elusive",
+      "slippery",
+      "indirect"
+    ],
+    "antonyms": [
+      "straightforward",
+      "direct",
+      "honest"
+    ],
+    "example": "His evasive answers made the interviewer suspect he was hiding something.",
+    "day": 6
+  },
+  {
+    "word": "Foresight",
+    "pronunciation": "FOR-syte",
+    "definition": "The ability to predict what will happen or be needed in the future.",
+    "synonyms": [
+      "forethought",
+      "prudence",
+      "vision"
+    ],
+    "antonyms": [
+      "hindsight",
+      "short-sightedness",
+      "improvidence"
+    ],
+    "example": "Her foresight in saving money meant she was prepared when the car broke down.",
+    "day": 6
+  },
+  {
+    "word": "Fagged",
+    "pronunciation": "FAGD",
+    "definition": "Exhausted; tired out after great exertion.",
+    "synonyms": [
+      "exhausted",
+      "tired",
+      "weary"
+    ],
+    "antonyms": [
+      "energetic",
+      "refreshed",
+      "invigorated"
+    ],
+    "example": "After a full day of rehearsals, the dancers were completely fagged.",
+    "day": 6
+  },
+  {
+    "word": "Felon",
+    "pronunciation": "FEL-un",
+    "definition": "A person who has been convicted of a felony.",
+    "synonyms": [
+      "criminal",
+      "convict",
+      "offender"
+    ],
+    "antonyms": [
+      "law-abiding citizen",
+      "innocent person"
+    ],
+    "example": "The felon was sentenced to five years in prison for robbery.",
+    "day": 6
+  },
+  {
+    "word": "Ferocity",
+    "pronunciation": "fuh-ROS-i-tee",
+    "definition": "The state or quality of being ferocious; savage fierceness.",
+    "synonyms": [
+      "fierceness",
+      "savagery",
+      "brutality"
+    ],
+    "antonyms": [
+      "gentleness",
+      "mildness",
+      "tenderness"
+    ],
+    "example": "The lion defended its cubs with ferocity.",
+    "day": 6
+  },
+  {
+    "word": "Ferret",
+    "pronunciation": "FER-it",
+    "definition": "Search tenaciously for something.",
+    "synonyms": [
+      "search",
+      "hunt",
+      "investigate"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "conceal"
+    ],
+    "example": "The detective spent hours trying to ferret out the truth from the conflicting reports.",
+    "day": 7
+  },
+  {
+    "word": "Fidelity",
+    "pronunciation": "fi-DEL-i-tee",
+    "definition": "Faithfulness to a person, cause, or belief.",
+    "synonyms": [
+      "loyalty",
+      "faithfulness",
+      "devotion"
+    ],
+    "antonyms": [
+      "infidelity",
+      "disloyalty",
+      "betrayal"
+    ],
+    "example": "The soldier pledged his fidelity to his country and its people.",
+    "day": 7
+  },
+  {
+    "word": "Fickle",
+    "pronunciation": "FIK-ul",
+    "definition": "Changing frequently, especially regarding one's loyalties, interests, or affections.",
+    "synonyms": [
+      "capricious",
+      "changeable",
+      "unstable"
+    ],
+    "antonyms": [
+      "constant",
+      "loyal",
+      "steadfast"
+    ],
+    "example": "Her fickle taste in music meant her playlist changed completely every week.",
+    "day": 7
+  },
+  {
+    "word": "Futile",
+    "pronunciation": "FYOO-tyle",
+    "definition": "Incapable of producing any useful result; pointless.",
+    "synonyms": [
+      "useless",
+      "pointless",
+      "ineffective"
+    ],
+    "antonyms": [
+      "effective",
+      "productive",
+      "worthwhile"
+    ],
+    "example": "It was futile to argue — the decision had already been made.",
+    "day": 7
+  },
+  {
+    "word": "Frigid",
+    "pronunciation": "FRIJ-id",
+    "definition": "Very cold in temperature; stiff, formal, and unfriendly in manner.",
+    "synonyms": [
+      "freezing",
+      "icy",
+      "cold"
+    ],
+    "antonyms": [
+      "warm",
+      "hot",
+      "hospitable"
+    ],
+    "example": "The explorer battled through frigid temperatures to reach the South Pole.",
+    "day": 7
+  },
+  {
+    "word": "Gait",
+    "pronunciation": "GAYT",
+    "definition": "A person's manner of walking; any of the paces of an animal such as a canter or trot.",
+    "synonyms": [
+      "walk",
+      "stride",
+      "step"
+    ],
+    "antonyms": [
+      "stillness",
+      "immobility"
+    ],
+    "example": "You could recognise her by her light bouncy gait from far away.",
+    "day": 7
+  },
+  {
+    "word": "Garner",
+    "pronunciation": "GAR-ner",
+    "definition": "Gather or collect; a granary or store.",
+    "synonyms": [
+      "gather",
+      "collect",
+      "accumulate"
+    ],
+    "antonyms": [
+      "scatter",
+      "distribute",
+      "disperse"
+    ],
+    "example": "The young actress hoped to garner praise for her debut performance.",
+    "day": 7
+  },
+  {
+    "word": "Gauche",
+    "pronunciation": "GOHSH",
+    "definition": "Unsophisticated and socially awkward; lacking ease or grace.",
+    "synonyms": [
+      "clumsy",
+      "awkward",
+      "tactless"
+    ],
+    "antonyms": [
+      "graceful",
+      "elegant",
+      "sophisticated"
+    ],
+    "example": "He made a gauche remark at dinner that made everyone uncomfortable.",
+    "day": 7
+  },
+  {
+    "word": "Gingerly",
+    "pronunciation": "JIN-jer-lee",
+    "definition": "In a careful or cautious manner so as to avoid harm or risk.",
+    "synonyms": [
+      "carefully",
+      "cautiously",
+      "delicately"
+    ],
+    "antonyms": [
+      "recklessly",
+      "carelessly",
+      "boldly"
+    ],
+    "example": "She gingerly picked up the fragile antique vase, afraid it might shatter.",
+    "day": 7
+  },
+  {
+    "word": "Glaze",
+    "pronunciation": "GLAYZ",
+    "definition": "Cover with a glassy coating; fit panes of glass into a window frame; lose brightness.",
+    "synonyms": [
+      "coat",
+      "varnish",
+      "cover"
+    ],
+    "antonyms": [
+      "expose",
+      "strip",
+      "uncover"
+    ],
+    "example": "The baker used sugar icing to glaze the freshly baked doughnuts.",
+    "day": 7
+  },
+  {
+    "word": "Genre",
+    "pronunciation": "ZHAAN-ruh",
+    "definition": "A category of artistic composition characterised by similarities in form, style, or subject matter.",
+    "synonyms": [
+      "category",
+      "type",
+      "style"
+    ],
+    "antonyms": [
+      "blend",
+      "mixture",
+      "hybrid"
+    ],
+    "example": "Mystery is her favourite genre — she has read over fifty detective novels.",
+    "day": 8
+  },
+  {
+    "word": "Glib",
+    "pronunciation": "GLIB",
+    "definition": "Fluent in speaking, but insincere and shallow.",
+    "synonyms": [
+      "smooth",
+      "superficial",
+      "slick"
+    ],
+    "antonyms": [
+      "sincere",
+      "thoughtful",
+      "hesitant"
+    ],
+    "example": "The politician gave a glib answer that avoided all the difficult questions.",
+    "day": 8
+  },
+  {
+    "word": "Glossary",
+    "pronunciation": "GLOSS-uh-ree",
+    "definition": "An alphabetical list of words relating to a specific subject, with explanations.",
+    "synonyms": [
+      "lexicon",
+      "word list",
+      "index"
+    ],
+    "antonyms": [
+      "confusion",
+      "disorder"
+    ],
+    "example": "The textbook had a helpful glossary at the back explaining scientific terms.",
+    "day": 8
+  },
+  {
+    "word": "Haggle",
+    "pronunciation": "HAG-uhl",
+    "definition": "Dispute or bargain persistently, especially over the cost of something.",
+    "synonyms": [
+      "bargain",
+      "negotiate",
+      "barter"
+    ],
+    "antonyms": [
+      "accept",
+      "agree",
+      "comply"
+    ],
+    "example": "At the market, he happily haggled over the price of the handmade rug.",
+    "day": 8
+  },
+  {
+    "word": "Humus",
+    "pronunciation": "HYOO-muhs",
+    "definition": "The organic component of soil, formed by the decomposition of leaves and other plant material.",
+    "synonyms": [
+      "compost",
+      "organic matter",
+      "topsoil"
+    ],
+    "antonyms": [
+      "barren soil",
+      "sterile ground"
+    ],
+    "example": "Gardeners add humus to the soil to help plants grow strong and healthy.",
+    "day": 8
+  },
+  {
+    "word": "Hovel",
+    "pronunciation": "HOV-uhl",
+    "definition": "A small squalid or simply constructed dwelling.",
+    "synonyms": [
+      "shack",
+      "hut",
+      "shanty"
+    ],
+    "antonyms": [
+      "mansion",
+      "palace",
+      "estate"
+    ],
+    "example": "The old photograph showed a tiny hovel where ten people once lived.",
+    "day": 8
+  },
+  {
+    "word": "Hostility",
+    "pronunciation": "hos-TIL-i-tee",
+    "definition": "Hostile behaviour; unfriendliness or opposition; an act of warfare.",
+    "synonyms": [
+      "aggression",
+      "animosity",
+      "antagonism"
+    ],
+    "antonyms": [
+      "friendliness",
+      "goodwill",
+      "warmth"
+    ],
+    "example": "There was open hostility between the two rival football clubs.",
+    "day": 8
+  },
+  {
+    "word": "Humility",
+    "pronunciation": "hyoo-MIL-i-tee",
+    "definition": "A modest or low view of one's own importance; humbleness.",
+    "synonyms": [
+      "modesty",
+      "humbleness",
+      "meekness"
+    ],
+    "antonyms": [
+      "arrogance",
+      "pride",
+      "vanity"
+    ],
+    "example": "Despite winning every award, she spoke with great humility.",
+    "day": 8
+  },
+  {
+    "word": "Hypothetical",
+    "pronunciation": "hy-puh-THET-i-kul",
+    "definition": "Supposed but not necessarily real or true.",
+    "synonyms": [
+      "theoretical",
+      "speculative",
+      "assumed"
+    ],
+    "antonyms": [
+      "actual",
+      "real",
+      "definite"
+    ],
+    "example": "Consider a hypothetical situation where school lasts only three days a week.",
+    "day": 8
+  },
+  {
+    "word": "Impede",
+    "pronunciation": "im-PEED",
+    "definition": "Delay or prevent by obstructing; hinder the progress of.",
+    "synonyms": [
+      "hinder",
+      "obstruct",
+      "block"
+    ],
+    "antonyms": [
+      "facilitate",
+      "aid",
+      "assist"
+    ],
+    "example": "The heavy snowfall began to impede traffic on the main road.",
+    "day": 8
+  },
+  {
+    "word": "Impassive",
+    "pronunciation": "im-PAS-iv",
+    "definition": "Not feeling or showing emotion; calm; serene.",
+    "synonyms": [
+      "calm",
+      "emotionless",
+      "stoic"
+    ],
+    "antonyms": [
+      "emotional",
+      "expressive",
+      "passionate"
+    ],
+    "example": "The judge remained impassive throughout the noisy courtroom debate.",
+    "day": 9
+  },
+  {
+    "word": "Incognito",
+    "pronunciation": "in-kog-NEE-toh",
+    "definition": "Having one's true identity concealed.",
+    "synonyms": [
+      "disguised",
+      "anonymous",
+      "concealed"
+    ],
+    "antonyms": [
+      "revealed",
+      "known",
+      "identified"
+    ],
+    "example": "The famous singer went incognito with a hat and sunglasses to avoid fans.",
+    "day": 9
+  },
+  {
+    "word": "Incrustation",
+    "pronunciation": "in-krus-TAY-shun",
+    "definition": "The action of encrusting or the state of being encrusted; a hard outer coating.",
+    "synonyms": [
+      "crust",
+      "coating",
+      "layer"
+    ],
+    "antonyms": [
+      "bare surface",
+      "clean surface"
+    ],
+    "example": "Years of incrustation on the ancient statue made it difficult to see the details.",
+    "day": 9
+  },
+  {
+    "word": "Inveigh",
+    "pronunciation": "in-VAY",
+    "definition": "Speak or write about something with great hostility; rail against.",
+    "synonyms": [
+      "rail",
+      "protest",
+      "denounce"
+    ],
+    "antonyms": [
+      "praise",
+      "commend",
+      "support"
+    ],
+    "example": "The journalist inveighed against corruption in a powerful editorial.",
+    "day": 9
+  },
+  {
+    "word": "Irreproachable",
+    "pronunciation": "ir-i-PROH-chuh-bul",
+    "definition": "Beyond criticism; faultless; blameless.",
+    "synonyms": [
+      "blameless",
+      "faultless",
+      "impeccable"
+    ],
+    "antonyms": [
+      "blameworthy",
+      "faulty",
+      "reproachable"
+    ],
+    "example": "Her irreproachable behaviour earned her the trust of everyone at school.",
+    "day": 9
+  },
+  {
+    "word": "Iota",
+    "pronunciation": "eye-OH-tuh",
+    "definition": "The ninth letter of the Greek alphabet; an extremely small amount.",
+    "synonyms": [
+      "bit",
+      "trace",
+      "speck"
+    ],
+    "antonyms": [
+      "abundance",
+      "lot",
+      "plenty"
+    ],
+    "example": "She did not care one iota what others thought of her unique sense of style.",
+    "day": 9
+  },
+  {
+    "word": "Invoke",
+    "pronunciation": "in-VOHK",
+    "definition": "Cite or appeal to as an authority; call on a deity in prayer; give rise to; evoke.",
+    "synonyms": [
+      "summon",
+      "cite",
+      "appeal to"
+    ],
+    "antonyms": [
+      "dismiss",
+      "disregard",
+      "ignore"
+    ],
+    "example": "The lawyer chose to invoke her client's right to remain silent.",
+    "day": 9
+  },
+  {
+    "word": "Jaunty",
+    "pronunciation": "JAWN-tee",
+    "definition": "Having a cheerful, lively, and self-confident manner; smart and tidy.",
+    "synonyms": [
+      "cheerful",
+      "lively",
+      "sprightly"
+    ],
+    "antonyms": [
+      "gloomy",
+      "dejected",
+      "sullen"
+    ],
+    "example": "He walked into the room with a jaunty step, clearly excited about the good news.",
+    "day": 9
+  },
+  {
+    "word": "Jibe",
+    "pronunciation": "JYIB",
+    "definition": "Be in accord; agree.",
+    "synonyms": [
+      "agree",
+      "accord",
+      "concur"
+    ],
+    "antonyms": [
+      "conflict",
+      "disagree",
+      "clash"
+    ],
+    "example": "Her account of the event does not quite jibe with what the other witnesses said.",
+    "day": 9
+  },
+  {
+    "word": "Jovial",
+    "pronunciation": "JOH-vee-uhl",
+    "definition": "Cheerful and friendly; convivial.",
+    "synonyms": [
+      "merry",
+      "cheerful",
+      "jolly"
+    ],
+    "antonyms": [
+      "gloomy",
+      "somber",
+      "miserable"
+    ],
+    "example": "Our jovial neighbour always made everyone laugh at his stories.",
+    "day": 9
+  },
+  {
+    "word": "Knotty",
+    "pronunciation": "NOT-ee",
+    "definition": "Highly intricate or difficult to resolve.",
+    "synonyms": [
+      "complex",
+      "difficult",
+      "intricate"
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward",
+      "clear"
+    ],
+    "example": "The lawyer had to untangle a knotty legal problem that had confused everyone.",
+    "day": 10
+  },
+  {
+    "word": "Knoll",
+    "pronunciation": "NOHL",
+    "definition": "A small hill or mound.",
+    "synonyms": [
+      "hill",
+      "mound",
+      "hillock"
+    ],
+    "antonyms": [
+      "valley",
+      "hollow",
+      "depression"
+    ],
+    "example": "The children flew their kites from the grassy knoll at the edge of the park.",
+    "day": 10
+  },
+  {
+    "word": "Languish",
+    "pronunciation": "LANG-gwish",
+    "definition": "Lose or lack vitality; grow weak; be kept in an unpleasant situation for a long time.",
+    "synonyms": [
+      "weaken",
+      "deteriorate",
+      "wither"
+    ],
+    "antonyms": [
+      "flourish",
+      "thrive",
+      "prosper"
+    ],
+    "example": "Without water, the flowers began to languish and droop.",
+    "day": 10
+  },
+  {
+    "word": "Labyrinth",
+    "pronunciation": "LAB-uh-rinth",
+    "definition": "Something that is complex and confusing; an intricate maze.",
+    "synonyms": [
+      "maze",
+      "tangle",
+      "puzzle"
+    ],
+    "antonyms": [
+      "simplicity",
+      "clarity",
+      "straightforwardness"
+    ],
+    "example": "The ancient castle was a labyrinth of narrow corridors and hidden rooms.",
+    "day": 10
+  },
+  {
+    "word": "Lavish",
+    "pronunciation": "LAV-ish",
+    "definition": "Bestow something in generous or extravagant quantities.",
+    "synonyms": [
+      "extravagant",
+      "generous",
+      "abundant"
+    ],
+    "antonyms": [
+      "frugal",
+      "sparse",
+      "meagre"
+    ],
+    "example": "The hosts put on a lavish feast for their guests with dozens of dishes.",
+    "day": 10
+  },
+  {
+    "word": "Leeway",
+    "pronunciation": "LEE-way",
+    "definition": "The amount of freedom to move or act.",
+    "synonyms": [
+      "freedom",
+      "latitude",
+      "flexibility"
+    ],
+    "antonyms": [
+      "constraint",
+      "restriction",
+      "limitation"
+    ],
+    "example": "The teacher gave students some leeway in choosing their essay topics.",
+    "day": 10
+  },
+  {
+    "word": "Livid",
+    "pronunciation": "LIV-id",
+    "definition": "Furiously angry; of a bluish leaden colour.",
+    "synonyms": [
+      "furious",
+      "enraged",
+      "infuriated"
+    ],
+    "antonyms": [
+      "calm",
+      "serene",
+      "pleased"
+    ],
+    "example": "Mum was livid when she discovered someone had eaten her birthday cake.",
+    "day": 10
+  },
+  {
+    "word": "Loquacious",
+    "pronunciation": "loh-KWAY-shus",
+    "definition": "Tending to talk a great deal; talkative; garrulous.",
+    "synonyms": [
+      "talkative",
+      "garrulous",
+      "verbose"
+    ],
+    "antonyms": [
+      "quiet",
+      "silent",
+      "taciturn"
+    ],
+    "example": "Her loquacious uncle dominated every conversation at family dinners.",
+    "day": 10
+  },
+  {
+    "word": "Malingerer",
+    "pronunciation": "muh-LING-ger-er",
+    "definition": "A person who exaggerates or pretends to be ill in order to escape duty or work.",
+    "synonyms": [
+      "shirker",
+      "dodger",
+      "faker"
+    ],
+    "antonyms": [
+      "worker",
+      "dedicated person",
+      "diligent person"
+    ],
+    "example": "The coach suspected the player was a malingerer after he missed three straight practices.",
+    "day": 10
+  },
+  {
+    "word": "Mauve",
+    "pronunciation": "MOHV",
+    "definition": "A pale purple colour; a pale bluish-purple dye or colour.",
+    "synonyms": [
+      "purple",
+      "lilac",
+      "violet"
+    ],
+    "antonyms": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "example": "She painted her bedroom walls a soft mauve that looked lovely in the evening light.",
+    "day": 10
+  },
+  {
+    "word": "Mellifluous",
+    "pronunciation": "mel-IF-loo-us",
+    "definition": "Sweet or musical; pleasant to hear; flowing sweetly.",
+    "synonyms": [
+      "melodious",
+      "musical",
+      "harmonious"
+    ],
+    "antonyms": [
+      "harsh",
+      "discordant",
+      "grating"
+    ],
+    "example": "The singer's mellifluous voice filled the hall and brought the audience to tears.",
+    "day": 11
+  },
+  {
+    "word": "Mirage",
+    "pronunciation": "mi-RAAZH",
+    "definition": "An optical illusion caused by atmospheric conditions; something illusory and unattainable.",
+    "synonyms": [
+      "illusion",
+      "hallucination",
+      "fantasy"
+    ],
+    "antonyms": [
+      "reality",
+      "truth",
+      "substance"
+    ],
+    "example": "Stranded in the desert, the lost traveller was tricked by a mirage of an oasis.",
+    "day": 11
+  },
+  {
+    "word": "Myriad",
+    "pronunciation": "MIR-ee-uhd",
+    "definition": "A countless or extremely great number of people or things; innumerable.",
+    "synonyms": [
+      "countless",
+      "innumerable",
+      "numerous"
+    ],
+    "antonyms": [
+      "few",
+      "scarce",
+      "handful"
+    ],
+    "example": "There were a myriad of stars visible on the clear night sky.",
+    "day": 11
+  },
+  {
+    "word": "Muggy",
+    "pronunciation": "MUG-ee",
+    "definition": "Unpleasantly warm and humid.",
+    "synonyms": [
+      "humid",
+      "sultry",
+      "close"
+    ],
+    "antonyms": [
+      "dry",
+      "crisp",
+      "refreshing"
+    ],
+    "example": "The muggy summer afternoon made everyone reluctant to go outside.",
+    "day": 11
+  },
+  {
+    "word": "Mollify",
+    "pronunciation": "MOL-i-fy",
+    "definition": "Appease the anger or anxiety of someone; reduce the severity or violence of something.",
+    "synonyms": [
+      "appease",
+      "soothe",
+      "pacify"
+    ],
+    "antonyms": [
+      "agitate",
+      "provoke",
+      "anger"
+    ],
+    "example": "She tried to mollify her upset friend with a sincere apology.",
+    "day": 11
+  },
+  {
+    "word": "Nebulous",
+    "pronunciation": "NEB-yuh-lus",
+    "definition": "In the form of a cloud or haze; hazy; vague; ill-defined.",
+    "synonyms": [
+      "vague",
+      "unclear",
+      "hazy"
+    ],
+    "antonyms": [
+      "clear",
+      "distinct",
+      "definite"
+    ],
+    "example": "His plans for the future were still rather nebulous — he had not decided on anything.",
+    "day": 11
+  },
+  {
+    "word": "Nomadic",
+    "pronunciation": "noh-MAD-ik",
+    "definition": "Living the life of a nomad; wandering from place to place.",
+    "synonyms": [
+      "wandering",
+      "roving",
+      "migratory"
+    ],
+    "antonyms": [
+      "settled",
+      "stationary",
+      "fixed"
+    ],
+    "example": "The nomadic tribe moved their camp every season in search of fresh pastures.",
+    "day": 11
+  },
+  {
+    "word": "Natty",
+    "pronunciation": "NAT-ee",
+    "definition": "Smart and fashionable; cleverly executed.",
+    "synonyms": [
+      "smart",
+      "stylish",
+      "spruce"
+    ],
+    "antonyms": [
+      "untidy",
+      "slovenly",
+      "scruffy"
+    ],
+    "example": "She always arrived looking natty — never a hair out of place.",
+    "day": 11
+  },
+  {
+    "word": "Novelty",
+    "pronunciation": "NOV-uhl-tee",
+    "definition": "The quality of being new, original, or unusual; a new or unfamiliar thing or experience.",
+    "synonyms": [
+      "newness",
+      "originality",
+      "uniqueness"
+    ],
+    "antonyms": [
+      "familiarity",
+      "routine",
+      "staleness"
+    ],
+    "example": "The novelty of the new toy wore off after just a few days.",
+    "day": 11
+  },
+  {
+    "word": "Neophyte",
+    "pronunciation": "NEE-oh-fyte",
+    "definition": "A person who is new to a subject or activity; a novice.",
+    "synonyms": [
+      "beginner",
+      "novice",
+      "newcomer"
+    ],
+    "antonyms": [
+      "expert",
+      "veteran",
+      "master"
+    ],
+    "example": "As a neophyte chess player, she was quickly beaten by the club champion.",
+    "day": 11
+  },
+  {
+    "word": "Ogle",
+    "pronunciation": "OH-gul",
+    "definition": "To look at something with strong interest, often in a way that is inappropriate.",
+    "synonyms": [
+      "stare",
+      "gawk",
+      "leer"
+    ],
+    "antonyms": [
+      "ignore",
+      "avert",
+      "overlook"
+    ],
+    "example": "The tourists ogled the famous painting, crowding around it to take photos.",
+    "day": 12
+  },
+  {
+    "word": "Obstinate",
+    "pronunciation": "OB-sti-nit",
+    "definition": "Stubbornly refusing to change one's opinion or chosen course of action.",
+    "synonyms": [
+      "stubborn",
+      "headstrong",
+      "pigheaded"
+    ],
+    "antonyms": [
+      "flexible",
+      "yielding",
+      "accommodating"
+    ],
+    "example": "He was so obstinate that no amount of logical reasoning could change his mind.",
+    "day": 12
+  },
+  {
+    "word": "Outmoded",
+    "pronunciation": "out-MOH-did",
+    "definition": "Old-fashioned; no longer current or in fashion.",
+    "synonyms": [
+      "outdated",
+      "obsolete",
+      "antiquated"
+    ],
+    "antonyms": [
+      "modern",
+      "current",
+      "fashionable"
+    ],
+    "example": "The outmoded computer was so slow it could barely run the latest software.",
+    "day": 12
+  },
+  {
+    "word": "Opportunist",
+    "pronunciation": "op-uh-TOO-nist",
+    "definition": "A person who takes advantage of opportunities as and when they arise, regardless of planning or principle.",
+    "synonyms": [
+      "exploiter",
+      "schemer",
+      "self-seeker"
+    ],
+    "antonyms": [
+      "principled person",
+      "idealist",
+      "altruist"
+    ],
+    "example": "He was an opportunist who took credit for his colleague's hard work.",
+    "day": 12
+  },
+  {
+    "word": "Ostracize",
+    "pronunciation": "OS-truh-size",
+    "definition": "Exclude from a society or group.",
+    "synonyms": [
+      "exclude",
+      "shun",
+      "banish"
+    ],
+    "antonyms": [
+      "include",
+      "welcome",
+      "embrace"
+    ],
+    "example": "The child was ostracized by the class for telling the teacher about the cheating.",
+    "day": 12
+  },
+  {
+    "word": "Opprobrium",
+    "pronunciation": "uh-PROH-bree-um",
+    "definition": "Harsh criticism or censure; the public disgrace arising from shameful conduct.",
+    "synonyms": [
+      "disgrace",
+      "shame",
+      "infamy"
+    ],
+    "antonyms": [
+      "honour",
+      "respect",
+      "acclaim"
+    ],
+    "example": "The corrupt official faced public opprobrium after the scandal was exposed.",
+    "day": 12
+  },
+  {
+    "word": "Ordinance",
+    "pronunciation": "OR-di-nuhns",
+    "definition": "A piece of legislation enacted by a municipal authority; a religious rite.",
+    "synonyms": [
+      "law",
+      "decree",
+      "regulation"
+    ],
+    "antonyms": [
+      "permission",
+      "freedom",
+      "exemption"
+    ],
+    "example": "The city council passed a new ordinance banning the use of plastic bags.",
+    "day": 12
+  },
+  {
+    "word": "Piecemeal",
+    "pronunciation": "PEES-meel",
+    "definition": "Characterised by unsystematic partial measures taken over a period of time; one piece at a time.",
+    "synonyms": [
+      "gradual",
+      "bit-by-bit",
+      "fragmentary"
+    ],
+    "antonyms": [
+      "comprehensive",
+      "all-at-once",
+      "unified"
+    ],
+    "example": "The building was renovated piecemeal over ten years rather than all at once.",
+    "day": 12
+  },
+  {
+    "word": "Piquant",
+    "pronunciation": "PEE-kunt",
+    "definition": "Having a pleasantly sharp or appetising flavour; pleasantly stimulating to the mind.",
+    "synonyms": [
+      "spicy",
+      "tangy",
+      "stimulating"
+    ],
+    "antonyms": [
+      "bland",
+      "tasteless",
+      "insipid"
+    ],
+    "example": "The chef prepared a piquant sauce that gave the dish a wonderful zing.",
+    "day": 12
+  },
+  {
+    "word": "Perquisite",
+    "pronunciation": "PUR-kwi-zit",
+    "definition": "A special right or privilege enjoyed as a result of one's position.",
+    "synonyms": [
+      "benefit",
+      "privilege",
+      "perk"
+    ],
+    "antonyms": [
+      "penalty",
+      "burden",
+      "disadvantage"
+    ],
+    "example": "A company car was one of the perquisites that came with his senior position.",
+    "day": 12
+  },
+  {
+    "word": "Pitfall",
+    "pronunciation": "PIT-fawl",
+    "definition": "A hidden or unsuspected danger or difficulty; a covered pit for trapping animals.",
+    "synonyms": [
+      "danger",
+      "hazard",
+      "trap"
+    ],
+    "antonyms": [
+      "safeguard",
+      "benefit",
+      "advantage"
+    ],
+    "example": "The teacher warned students about the pitfalls of copying work from the internet.",
+    "day": 13
+  },
+  {
+    "word": "Pestilential",
+    "pronunciation": "pes-ti-LEN-shul",
+    "definition": "Relating to or tending to cause infectious disease; harmful or dangerous.",
+    "synonyms": [
+      "harmful",
+      "infectious",
+      "dangerous"
+    ],
+    "antonyms": [
+      "harmless",
+      "healthy",
+      "beneficial"
+    ],
+    "example": "Mosquitoes can be pestilential in tropical climates, spreading serious diseases.",
+    "day": 13
+  },
+  {
+    "word": "Polemical",
+    "pronunciation": "puh-LEM-i-kul",
+    "definition": "Of or involving strongly critical or controversial writing or speech.",
+    "synonyms": [
+      "controversial",
+      "argumentative",
+      "combative"
+    ],
+    "antonyms": [
+      "conciliatory",
+      "peaceful",
+      "agreeable"
+    ],
+    "example": "Her polemical article about school uniforms sparked a fierce debate online.",
+    "day": 13
+  },
+  {
+    "word": "Propulsive",
+    "pronunciation": "pruh-PUL-siv",
+    "definition": "Tending to propel; relating to the action of propelling.",
+    "synonyms": [
+      "driving",
+      "thrusting",
+      "impelling"
+    ],
+    "antonyms": [
+      "hindering",
+      "restraining",
+      "impeding"
+    ],
+    "example": "The rocket's propulsive force carried it far beyond the atmosphere.",
+    "day": 13
+  },
+  {
+    "word": "Presumptuous",
+    "pronunciation": "pri-ZUMP-choo-uhs",
+    "definition": "Failing to observe the limits of what is permitted or appropriate; bold.",
+    "synonyms": [
+      "arrogant",
+      "bold",
+      "impudent"
+    ],
+    "antonyms": [
+      "humble",
+      "modest",
+      "respectful"
+    ],
+    "example": "It was presumptuous of him to assume he would be chosen as team captain.",
+    "day": 13
+  },
+  {
+    "word": "Quash",
+    "pronunciation": "KWOSH",
+    "definition": "Put an end to; suppress; reject or void by legal procedure.",
+    "synonyms": [
+      "suppress",
+      "crush",
+      "squash"
+    ],
+    "antonyms": [
+      "encourage",
+      "foster",
+      "promote"
+    ],
+    "example": "The principal acted quickly to quash the rumour before it spread further.",
+    "day": 13
+  },
+  {
+    "word": "Quisling",
+    "pronunciation": "KWIZ-ling",
+    "definition": "A traitor who collaborates with an enemy force occupying their country.",
+    "synonyms": [
+      "traitor",
+      "collaborator",
+      "betrayer"
+    ],
+    "antonyms": [
+      "patriot",
+      "loyalist",
+      "defender"
+    ],
+    "example": "The story of the quisling who betrayed his own people became a symbol of cowardice.",
+    "day": 13
+  },
+  {
+    "word": "Quixotic",
+    "pronunciation": "kwik-SOT-ik",
+    "definition": "Exceedingly idealistic; unrealistic and impractical.",
+    "synonyms": [
+      "idealistic",
+      "impractical",
+      "fanciful"
+    ],
+    "antonyms": [
+      "realistic",
+      "practical",
+      "pragmatic"
+    ],
+    "example": "Her quixotic plan to cycle around the world in a week seemed impossible to everyone.",
+    "day": 13
+  },
+  {
+    "word": "Quizzical",
+    "pronunciation": "KWIZ-i-kul",
+    "definition": "Indicating mild or amused puzzlement; questioning.",
+    "synonyms": [
+      "puzzled",
+      "curious",
+      "questioning"
+    ],
+    "antonyms": [
+      "certain",
+      "confident",
+      "knowing"
+    ],
+    "example": "The dog gave a quizzical tilt of its head when it heard the strange sound.",
+    "day": 13
+  },
+  {
+    "word": "Quip",
+    "pronunciation": "KWIP",
+    "definition": "A witty remark; a clever or sarcastic observation.",
+    "synonyms": [
+      "joke",
+      "witticism",
+      "jest"
+    ],
+    "antonyms": [
+      "serious statement",
+      "earnest remark"
+    ],
+    "example": "He always had a clever quip ready to lighten the mood in tense situations.",
+    "day": 13
+  },
+  {
+    "word": "Reconnaissance",
+    "pronunciation": "ri-KON-uh-sans",
+    "definition": "Military observation of a region to locate an enemy or ascertain strategic features.",
+    "synonyms": [
+      "survey",
+      "exploration",
+      "scouting"
+    ],
+    "antonyms": [
+      "ignorance",
+      "ambush",
+      "blindness"
+    ],
+    "example": "Before the mission, the soldiers conducted a careful reconnaissance of the area.",
+    "day": 14
+  },
+  {
+    "word": "Ravenous",
+    "pronunciation": "RAV-uh-nus",
+    "definition": "Extremely hungry; very eager for gratification.",
+    "synonyms": [
+      "starving",
+      "famished",
+      "voracious"
+    ],
+    "antonyms": [
+      "satisfied",
+      "full",
+      "satiated"
+    ],
+    "example": "After the long hike, the children were ravenous and devoured their sandwiches.",
+    "day": 14
+  },
+  {
+    "word": "Reminiscence",
+    "pronunciation": "rem-uh-NIS-ens",
+    "definition": "A story told about a past event remembered by the narrator.",
+    "synonyms": [
+      "memory",
+      "recollection",
+      "nostalgia"
+    ],
+    "antonyms": [
+      "forgetfulness",
+      "amnesia",
+      "oblivion"
+    ],
+    "example": "The reunion was full of reminiscence as old classmates recalled their school days.",
+    "day": 14
+  },
+  {
+    "word": "Relinquish",
+    "pronunciation": "ri-LING-kwish",
+    "definition": "Voluntarily cease to keep or claim; give up.",
+    "synonyms": [
+      "give up",
+      "abandon",
+      "surrender"
+    ],
+    "antonyms": [
+      "keep",
+      "retain",
+      "maintain"
+    ],
+    "example": "She was reluctant to relinquish her role as team captain.",
+    "day": 14
+  },
+  {
+    "word": "Remiss",
+    "pronunciation": "ri-MISS",
+    "definition": "Lacking care or attention to duty; negligent.",
+    "synonyms": [
+      "negligent",
+      "careless",
+      "lax"
+    ],
+    "antonyms": [
+      "diligent",
+      "careful",
+      "attentive"
+    ],
+    "example": "It would be remiss of me not to thank all the volunteers for their hard work.",
+    "day": 14
+  },
+  {
+    "word": "Rhetoric",
+    "pronunciation": "RET-uh-rik",
+    "definition": "The art of effective or persuasive speaking or writing.",
+    "synonyms": [
+      "oratory",
+      "eloquence",
+      "persuasion"
+    ],
+    "antonyms": [
+      "silence",
+      "plain speech",
+      "gibberish"
+    ],
+    "example": "The politician's speech was full of rhetoric but short on concrete solutions.",
+    "day": 14
+  },
+  {
+    "word": "Saboteur",
+    "pronunciation": "sab-uh-TUR",
+    "definition": "A person who engages in sabotage; one who deliberately destroys or obstructs something.",
+    "synonyms": [
+      "destroyer",
+      "wrecker",
+      "traitor"
+    ],
+    "antonyms": [
+      "supporter",
+      "protector",
+      "helper"
+    ],
+    "example": "The race team discovered a saboteur had tampered with the engine the night before.",
+    "day": 14
+  },
+  {
+    "word": "Sage",
+    "pronunciation": "SAYJ",
+    "definition": "A profoundly wise person; an aromatic plant used in cookery; having or showing wisdom.",
+    "synonyms": [
+      "wise man",
+      "philosopher",
+      "guru"
+    ],
+    "antonyms": [
+      "fool",
+      "novice",
+      "ignoramus"
+    ],
+    "example": "She sought the advice of the village sage before making her final decision.",
+    "day": 14
+  },
+  {
+    "word": "Scaffold",
+    "pronunciation": "SKAF-ohld",
+    "definition": "A raised wooden platform used for execution; a temporary structure used in building.",
+    "synonyms": [
+      "framework",
+      "structure",
+      "platform"
+    ],
+    "antonyms": [
+      "finished structure",
+      "permanent building"
+    ],
+    "example": "Workmen stood on the scaffold to repaint the upper floors of the building.",
+    "day": 14
+  },
+  {
+    "word": "Scuttle",
+    "pronunciation": "SKUT-ul",
+    "definition": "Run hurriedly with short quick steps; deliberately sink one's own ship.",
+    "synonyms": [
+      "dash",
+      "scurry",
+      "hurry"
+    ],
+    "antonyms": [
+      "stroll",
+      "saunter",
+      "linger"
+    ],
+    "example": "The little crab scuttled sideways across the rock and hid under a shell.",
+    "day": 14
+  },
+  {
+    "word": "Spruce",
+    "pronunciation": "SPROOS",
+    "definition": "Neat in dress and appearance; make someone look neat; a widespread coniferous tree.",
+    "synonyms": [
+      "neat",
+      "tidy",
+      "smart"
+    ],
+    "antonyms": [
+      "dishevelled",
+      "untidy",
+      "unkempt"
+    ],
+    "example": "She spruced herself up before heading to the interview.",
+    "day": 15
+  },
+  {
+    "word": "Solitude",
+    "pronunciation": "SOL-i-tyood",
+    "definition": "The state or situation of being alone; a lonely or uninhabited place.",
+    "synonyms": [
+      "isolation",
+      "loneliness",
+      "seclusion"
+    ],
+    "antonyms": [
+      "company",
+      "society",
+      "companionship"
+    ],
+    "example": "He loved the solitude of early morning walks before the city woke up.",
+    "day": 15
+  },
+  {
+    "word": "Stodgy",
+    "pronunciation": "STOJ-ee",
+    "definition": "Heavy, filling, and unappetising; dull and uninspired.",
+    "synonyms": [
+      "dull",
+      "heavy",
+      "boring"
+    ],
+    "antonyms": [
+      "light",
+      "exciting",
+      "interesting"
+    ],
+    "example": "The stodgy lecture made half the class fall asleep.",
+    "day": 15
+  },
+  {
+    "word": "Staccato",
+    "pronunciation": "stuh-KAA-toh",
+    "definition": "In music, with each sound sharply detached or separated; performed in an abrupt manner.",
+    "synonyms": [
+      "abrupt",
+      "clipped",
+      "sharp"
+    ],
+    "antonyms": [
+      "legato",
+      "smooth",
+      "flowing"
+    ],
+    "example": "The drumbeat was staccato, each tap crisp and separate from the next.",
+    "day": 15
+  },
+  {
+    "word": "Tenacity",
+    "pronunciation": "te-NA-si-tee",
+    "definition": "The quality or fact of being very determined; the quality of holding fast.",
+    "synonyms": [
+      "persistence",
+      "determination",
+      "perseverance"
+    ],
+    "antonyms": [
+      "weakness",
+      "surrender",
+      "irresolution"
+    ],
+    "example": "Her tenacity in practising every day finally led her to win the championship.",
+    "day": 15
+  },
+  {
+    "word": "Thwart",
+    "pronunciation": "THWAWRT",
+    "definition": "Prevent from accomplishing something; oppose successfully.",
+    "synonyms": [
+      "prevent",
+      "obstruct",
+      "foil"
+    ],
+    "antonyms": [
+      "assist",
+      "help",
+      "facilitate"
+    ],
+    "example": "The security guard managed to thwart the thief's plan to steal the painting.",
+    "day": 15
+  },
+  {
+    "word": "Tedium",
+    "pronunciation": "TEE-dee-um",
+    "definition": "The state of being tedious; boredom; monotonous quality.",
+    "synonyms": [
+      "boredom",
+      "monotony",
+      "dullness"
+    ],
+    "antonyms": [
+      "excitement",
+      "interest",
+      "fascination"
+    ],
+    "example": "To escape the tedium of the long journey, she read her favourite novel.",
+    "day": 15
+  },
+  {
+    "word": "Tangible",
+    "pronunciation": "TAN-juh-bul",
+    "definition": "Perceptible by touch; clear and definite; real.",
+    "synonyms": [
+      "concrete",
+      "physical",
+      "real"
+    ],
+    "antonyms": [
+      "intangible",
+      "abstract",
+      "theoretical"
+    ],
+    "example": "The teacher asked for tangible proof, not just a verbal claim.",
+    "day": 15
+  },
+  {
+    "word": "Thespian",
+    "pronunciation": "THES-pee-uhn",
+    "definition": "Of or relating to drama and the theatre; an actor or actress.",
+    "synonyms": [
+      "actor",
+      "performer",
+      "player"
+    ],
+    "antonyms": [
+      "audience",
+      "spectator"
+    ],
+    "example": "The school's most dedicated thespian had a lead role in every annual play.",
+    "day": 15
+  },
+  {
+    "word": "Traduce",
+    "pronunciation": "truh-DOOS",
+    "definition": "Speak badly of or tell lies about so as to damage someone's reputation.",
+    "synonyms": [
+      "slander",
+      "defame",
+      "malign"
+    ],
+    "antonyms": [
+      "praise",
+      "commend",
+      "honour"
+    ],
+    "example": "He was furious that his rival had traduced him in front of the entire committee.",
+    "day": 15
+  },
+  {
+    "word": "Tumid",
+    "pronunciation": "TYOO-mid",
+    "definition": "Swollen; inflated.",
+    "synonyms": [
+      "swollen",
+      "bloated",
+      "inflated"
+    ],
+    "antonyms": [
+      "shrunken",
+      "deflated",
+      "flat"
+    ],
+    "example": "After the bee sting, his hand became tumid and painful.",
+    "day": 16
+  },
+  {
+    "word": "Throttle",
+    "pronunciation": "THROT-ul",
+    "definition": "Attack or kill by choking or strangling; control the flow of fuel or steam to an engine.",
+    "synonyms": [
+      "choke",
+      "strangle",
+      "suppress"
+    ],
+    "antonyms": [
+      "release",
+      "free",
+      "liberate"
+    ],
+    "example": "The mechanic adjusted the throttle to give the engine more power.",
+    "day": 16
+  },
+  {
+    "word": "Thrifty",
+    "pronunciation": "THRIF-tee",
+    "definition": "Using money and other resources carefully and not wastefully.",
+    "synonyms": [
+      "frugal",
+      "economical",
+      "careful"
+    ],
+    "antonyms": [
+      "wasteful",
+      "extravagant",
+      "prodigal"
+    ],
+    "example": "By being thrifty with her pocket money, she saved enough to buy a new bicycle.",
+    "day": 16
+  },
+  {
+    "word": "Tightwad",
+    "pronunciation": "TYT-wod",
+    "definition": "A mean or miserly person; one who is reluctant to spend money.",
+    "synonyms": [
+      "miser",
+      "cheapskate",
+      "penny-pincher"
+    ],
+    "antonyms": [
+      "spendthrift",
+      "generous person",
+      "philanthropist"
+    ],
+    "example": "He was such a tightwad he refused to buy birthday presents for anyone.",
+    "day": 16
+  },
+  {
+    "word": "Tout",
+    "pronunciation": "TOWT",
+    "definition": "Attempt to sell something, typically in an aggressive manner.",
+    "synonyms": [
+      "promote",
+      "advertise",
+      "endorse"
+    ],
+    "antonyms": [
+      "condemn",
+      "criticise",
+      "denounce"
+    ],
+    "example": "Street vendors were touting fresh fruit to passing shoppers.",
+    "day": 16
+  },
+  {
+    "word": "Umbrage",
+    "pronunciation": "UM-brij",
+    "definition": "Offence or annoyance; shade or shadow, especially as cast by trees.",
+    "synonyms": [
+      "offence",
+      "annoyance",
+      "resentment"
+    ],
+    "antonyms": [
+      "pleasure",
+      "satisfaction",
+      "contentment"
+    ],
+    "example": "She took umbrage at the suggestion that she could not handle the challenge.",
+    "day": 16
+  },
+  {
+    "word": "Unkempt",
+    "pronunciation": "un-KEMPT",
+    "definition": "Having an untidy or dishevelled appearance; not groomed.",
+    "synonyms": [
+      "untidy",
+      "dishevelled",
+      "messy"
+    ],
+    "antonyms": [
+      "neat",
+      "tidy",
+      "groomed"
+    ],
+    "example": "After camping for a week, the hikers returned looking rather unkempt.",
+    "day": 16
+  },
+  {
+    "word": "Unassuming",
+    "pronunciation": "un-uh-SOO-ming",
+    "definition": "Not pretentious or arrogant; modest.",
+    "synonyms": [
+      "modest",
+      "humble",
+      "unpretentious"
+    ],
+    "antonyms": [
+      "pretentious",
+      "arrogant",
+      "showy"
+    ],
+    "example": "Despite being one of the best students in school, she was quiet and unassuming.",
+    "day": 16
+  },
+  {
+    "word": "Unfaltering",
+    "pronunciation": "un-FAWL-ter-ing",
+    "definition": "Not faltering; remaining strong and steady.",
+    "synonyms": [
+      "steady",
+      "resolute",
+      "unwavering"
+    ],
+    "antonyms": [
+      "wavering",
+      "uncertain",
+      "faltering"
+    ],
+    "example": "Her unfaltering belief in herself helped her push through the hardest training.",
+    "day": 16
+  },
+  {
+    "word": "Unfeigned",
+    "pronunciation": "un-FAYND",
+    "definition": "Not feigned; genuine; sincere.",
+    "synonyms": [
+      "genuine",
+      "sincere",
+      "authentic"
+    ],
+    "antonyms": [
+      "feigned",
+      "fake",
+      "insincere"
+    ],
+    "example": "Her unfeigned joy when she passed her exams made everyone smile.",
+    "day": 16
+  },
+  {
+    "word": "Unwitting",
+    "pronunciation": "un-WIT-ing",
+    "definition": "Not aware of the full facts; unintentional.",
+    "synonyms": [
+      "unintentional",
+      "inadvertent",
+      "accidental"
+    ],
+    "antonyms": [
+      "deliberate",
+      "intentional",
+      "knowing"
+    ],
+    "example": "She became an unwitting accomplice in the prank simply by holding the bag.",
+    "day": 17
+  },
+  {
+    "word": "Untenable",
+    "pronunciation": "un-TEN-uh-bul",
+    "definition": "Not able to be maintained or defended against attack or objection.",
+    "synonyms": [
+      "indefensible",
+      "unsupportable",
+      "flawed"
+    ],
+    "antonyms": [
+      "defensible",
+      "tenable",
+      "sound"
+    ],
+    "example": "The coach's position became untenable after the team lost ten games in a row.",
+    "day": 17
+  },
+  {
+    "word": "Upbraid",
+    "pronunciation": "up-BRAYD",
+    "definition": "Find fault with or scold persistently.",
+    "synonyms": [
+      "scold",
+      "rebuke",
+      "chastise"
+    ],
+    "antonyms": [
+      "praise",
+      "commend",
+      "approve"
+    ],
+    "example": "The teacher gently but firmly upbraided the student for repeatedly missing deadlines.",
+    "day": 17
+  },
+  {
+    "word": "Uproarious",
+    "pronunciation": "up-ROAR-ee-us",
+    "definition": "Provoking loud laughter; very funny; making or characterised by a loud noise.",
+    "synonyms": [
+      "hilarious",
+      "riotous",
+      "boisterous"
+    ],
+    "antonyms": [
+      "somber",
+      "quiet",
+      "sedate"
+    ],
+    "example": "The comedian's uproarious performance had the entire crowd in stitches.",
+    "day": 17
+  },
+  {
+    "word": "Usurp",
+    "pronunciation": "yoo-SURP",
+    "definition": "Take a position of power or importance illegally or by force.",
+    "synonyms": [
+      "seize",
+      "overthrow",
+      "appropriate"
+    ],
+    "antonyms": [
+      "relinquish",
+      "surrender",
+      "yield"
+    ],
+    "example": "The ambitious general plotted to usurp the king's throne.",
+    "day": 17
+  },
+  {
+    "word": "Vacillate",
+    "pronunciation": "VAS-i-layt",
+    "definition": "Waver between different opinions or actions; be indecisive.",
+    "synonyms": [
+      "waver",
+      "hesitate",
+      "fluctuate"
+    ],
+    "antonyms": [
+      "decide",
+      "commit",
+      "persist"
+    ],
+    "example": "He vacillated for weeks before finally choosing which university to attend.",
+    "day": 17
+  },
+  {
+    "word": "Vagrant",
+    "pronunciation": "VAY-grunt",
+    "definition": "A person without a settled home or regular work who wanders from place to place.",
+    "synonyms": [
+      "wanderer",
+      "vagabond",
+      "drifter"
+    ],
+    "antonyms": [
+      "resident",
+      "settler",
+      "homeowner"
+    ],
+    "example": "The charity provided hot meals to vagrants sleeping rough in the city.",
+    "day": 17
+  },
+  {
+    "word": "Vegetate",
+    "pronunciation": "VEJ-uh-tayt",
+    "definition": "Live or spend time in a dull, inactive, unchallenging way.",
+    "synonyms": [
+      "stagnate",
+      "idle",
+      "languish"
+    ],
+    "antonyms": [
+      "thrive",
+      "flourish",
+      "prosper"
+    ],
+    "example": "After the exams she just wanted to vegetate on the sofa and watch films.",
+    "day": 17
+  },
+  {
+    "word": "Vehement",
+    "pronunciation": "VEE-uh-ment",
+    "definition": "Showing strong feeling; forceful, passionate, or intense.",
+    "synonyms": [
+      "passionate",
+      "fervent",
+      "intense"
+    ],
+    "antonyms": [
+      "mild",
+      "apathetic",
+      "indifferent"
+    ],
+    "example": "She made a vehement objection to the unfair rule change.",
+    "day": 17
+  },
+  {
+    "word": "Vulpine",
+    "pronunciation": "VUL-pine",
+    "definition": "Of or relating to a fox; crafty; cunning.",
+    "synonyms": [
+      "cunning",
+      "crafty",
+      "sly"
+    ],
+    "antonyms": [
+      "naive",
+      "honest",
+      "simple"
+    ],
+    "example": "His vulpine smile suggested he already knew the outcome of the negotiation.",
+    "day": 17
+  },
+  {
+    "word": "Verdant",
+    "pronunciation": "VUR-dunt",
+    "definition": "Green with grass or other rich vegetation; of the bright green colour of lush grass.",
+    "synonyms": [
+      "green",
+      "lush",
+      "flourishing"
+    ],
+    "antonyms": [
+      "barren",
+      "dry",
+      "arid"
+    ],
+    "example": "After weeks of rain, the hillsides were verdant and beautiful.",
+    "day": 18
+  },
+  {
+    "word": "Vouchsafe",
+    "pronunciation": "vowch-SAYF",
+    "definition": "To grant or give something to someone in a gracious manner.",
+    "synonyms": [
+      "grant",
+      "bestow",
+      "condescend"
+    ],
+    "antonyms": [
+      "withhold",
+      "deny",
+      "refuse"
+    ],
+    "example": "The queen vouchsafed the knight an audience to hear his request.",
+    "day": 18
+  },
+  {
+    "word": "Vociferous",
+    "pronunciation": "voh-SIF-er-us",
+    "definition": "Making a loud and forceful sound; insistent and forceful in speech.",
+    "synonyms": [
+      "clamorous",
+      "loud",
+      "noisy"
+    ],
+    "antonyms": [
+      "quiet",
+      "silent",
+      "subdued"
+    ],
+    "example": "The crowd was vociferous in protesting the unfair decision.",
+    "day": 18
+  },
+  {
+    "word": "Vestige",
+    "pronunciation": "VES-tij",
+    "definition": "A trace or remnant of something that is disappearing or no longer exists.",
+    "synonyms": [
+      "trace",
+      "remnant",
+      "relic"
+    ],
+    "antonyms": [
+      "totality",
+      "abundance",
+      "whole"
+    ],
+    "example": "Only a vestige of the ancient wall remained after centuries of erosion.",
+    "day": 18
+  },
+  {
+    "word": "Vapid",
+    "pronunciation": "VAP-id",
+    "definition": "Offering nothing that is stimulating or challenging; dull or uninteresting.",
+    "synonyms": [
+      "dull",
+      "insipid",
+      "lifeless"
+    ],
+    "antonyms": [
+      "vivid",
+      "interesting",
+      "stimulating"
+    ],
+    "example": "The movie received poor reviews for its vapid plot and forgettable characters.",
+    "day": 18
+  },
+  {
+    "word": "Wince",
+    "pronunciation": "WINS",
+    "definition": "Give a slight involuntary grimace or shrinking movement from pain or distress.",
+    "synonyms": [
+      "flinch",
+      "cringe",
+      "recoil"
+    ],
+    "antonyms": [
+      "stand firm",
+      "endure",
+      "remain steady"
+    ],
+    "example": "She winced when the nurse gave her the injection.",
+    "day": 18
+  },
+  {
+    "word": "Whiff",
+    "pronunciation": "WIF",
+    "definition": "A smell that is only smelt briefly or faintly; a trace of something.",
+    "synonyms": [
+      "smell",
+      "scent",
+      "trace"
+    ],
+    "antonyms": [
+      "stench",
+      "reek",
+      "strong smell"
+    ],
+    "example": "She caught a whiff of fresh bread as she walked past the bakery.",
+    "day": 18
+  },
+  {
+    "word": "Wallow",
+    "pronunciation": "WOL-oh",
+    "definition": "Roll about or lie in mud or water; indulge in an unrestrained way in something.",
+    "synonyms": [
+      "revel",
+      "bask",
+      "indulge"
+    ],
+    "antonyms": [
+      "abstain",
+      "avoid",
+      "resist"
+    ],
+    "example": "After the disappointing result, she allowed herself to wallow in self-pity for just one day.",
+    "day": 18
+  },
+  {
+    "word": "Wan",
+    "pronunciation": "WON",
+    "definition": "Pale and giving the impression of illness or exhaustion.",
+    "synonyms": [
+      "pale",
+      "sickly",
+      "pallid"
+    ],
+    "antonyms": [
+      "rosy",
+      "flushed",
+      "healthy"
+    ],
+    "example": "After a week of illness, she appeared wan and tired at school.",
+    "day": 18
+  },
+  {
+    "word": "Warble",
+    "pronunciation": "WOR-bul",
+    "definition": "Sing in a gentle, pleasant way with variations in pitch; a gentle trilling sound.",
+    "synonyms": [
+      "sing",
+      "trill",
+      "chirp"
+    ],
+    "antonyms": [
+      "screech",
+      "squawk",
+      "shriek"
+    ],
+    "example": "A small robin warbled cheerfully in the apple tree outside the window.",
+    "day": 18
+  },
+  {
+    "word": "Warren",
+    "pronunciation": "WOR-en",
+    "definition": "A network of interconnecting rabbit burrows; a densely populated or labyrinthine district.",
+    "synonyms": [
+      "maze",
+      "network",
+      "burrow"
+    ],
+    "antonyms": [
+      "open space",
+      "clearing",
+      "simplicity"
+    ],
+    "example": "The old city centre was a warren of narrow streets and hidden courtyards.",
+    "day": 19
+  },
+  {
+    "word": "Winnow",
+    "pronunciation": "WIN-oh",
+    "definition": "Blow a current of air through grain to remove the chaff; remove unwanted elements.",
+    "synonyms": [
+      "sift",
+      "sort",
+      "separate"
+    ],
+    "antonyms": [
+      "mix",
+      "combine",
+      "blend"
+    ],
+    "example": "The editor had to winnow hundreds of applications down to just ten.",
+    "day": 19
+  },
+  {
+    "word": "Winsome",
+    "pronunciation": "WIN-sum",
+    "definition": "Attractive or appealing in a fresh, innocent way.",
+    "synonyms": [
+      "charming",
+      "appealing",
+      "attractive"
+    ],
+    "antonyms": [
+      "unappealing",
+      "repulsive",
+      "unattractive"
+    ],
+    "example": "Her winsome smile won over the grumpy shopkeeper instantly.",
+    "day": 19
+  },
+  {
+    "word": "Wither",
+    "pronunciation": "WITH-ur",
+    "definition": "Become dry and shrivelled; cause to feel worthless; decline.",
+    "synonyms": [
+      "wilt",
+      "shrivel",
+      "decay"
+    ],
+    "antonyms": [
+      "flourish",
+      "bloom",
+      "thrive"
+    ],
+    "example": "Without enough sunlight, the plants began to wither.",
+    "day": 19
+  },
+  {
+    "word": "Witticism",
+    "pronunciation": "WIT-i-siz-um",
+    "definition": "A witty remark.",
+    "synonyms": [
+      "quip",
+      "jest",
+      "pun"
+    ],
+    "antonyms": [
+      "serious statement",
+      "solemn remark"
+    ],
+    "example": "The teacher's unexpected witticism made the class burst out laughing.",
+    "day": 19
+  },
+  {
+    "word": "Wizened",
+    "pronunciation": "WIZ-uhnd",
+    "definition": "Lean and wrinkled, especially through age; shrivelled.",
+    "synonyms": [
+      "shrivelled",
+      "wrinkled",
+      "gnarled"
+    ],
+    "antonyms": [
+      "smooth",
+      "plump",
+      "youthful"
+    ],
+    "example": "The wizened old fisherman had spent fifty years in the sun and wind.",
+    "day": 19
+  },
+  {
+    "word": "Wrangle",
+    "pronunciation": "RANG-gul",
+    "definition": "Have a long, complicated dispute; a dispute of this kind.",
+    "synonyms": [
+      "argue",
+      "dispute",
+      "bicker"
+    ],
+    "antonyms": [
+      "agree",
+      "settle",
+      "reconcile"
+    ],
+    "example": "The two neighbours wrangled for years over the position of their shared fence.",
+    "day": 19
+  },
+  {
+    "word": "Woeful",
+    "pronunciation": "WOE-ful",
+    "definition": "Characterised by, expressive of, or causing sorrow or misery; very bad; deplorable.",
+    "synonyms": [
+      "sorrowful",
+      "miserable",
+      "deplorable"
+    ],
+    "antonyms": [
+      "joyful",
+      "cheerful",
+      "wonderful"
+    ],
+    "example": "Her woeful expression told everyone she had just heard terrible news.",
+    "day": 19
+  },
+  {
+    "word": "Xenophobia",
+    "pronunciation": "zen-uh-FOH-bee-uh",
+    "definition": "Dislike of or prejudice against people from other countries.",
+    "synonyms": [
+      "racism",
+      "bigotry",
+      "intolerance"
+    ],
+    "antonyms": [
+      "tolerance",
+      "acceptance",
+      "cosmopolitanism"
+    ],
+    "example": "The school worked hard to tackle xenophobia and promote respect for all cultures.",
+    "day": 19
+  },
+  {
+    "word": "Xenolith",
+    "pronunciation": "ZEN-oh-lith",
+    "definition": "A piece of rock within an igneous rock that is of a different origin.",
+    "synonyms": [
+      "inclusion",
+      "fragment",
+      "intrusion"
+    ],
+    "antonyms": [
+      "host rock",
+      "native material"
+    ],
+    "example": "Geologists examined the xenolith to understand how the volcanic rock had formed.",
+    "day": 19
+  },
+  {
+    "word": "Xanthate",
+    "pronunciation": "ZAN-thayt",
+    "definition": "A salt or ester of xanthic acid; used chiefly in ore-flotation processes.",
+    "synonyms": [
+      "salt",
+      "compound",
+      "ester"
+    ],
+    "antonyms": [
+      "element",
+      "pure substance"
+    ],
+    "example": "Xanthate is an important chemical used in mining to separate valuable minerals from ore.",
+    "day": 20
+  },
+  {
+    "word": "Xerarch",
+    "pronunciation": "ZEE-rark",
+    "definition": "Originating in a dry habitat; relating to an ecological succession beginning on dry ground.",
+    "synonyms": [
+      "dry-origin",
+      "arid-based",
+      "drought-adapted"
+    ],
+    "antonyms": [
+      "hydric",
+      "wetland-based",
+      "aquatic"
+    ],
+    "example": "The xerarch succession showed how plants slowly colonised the dry rocky hillside.",
+    "day": 20
+  },
+  {
+    "word": "Yonder",
+    "pronunciation": "YON-der",
+    "definition": "At some distance in the direction indicated; over there.",
+    "synonyms": [
+      "distant",
+      "faraway",
+      "over there"
+    ],
+    "antonyms": [
+      "here",
+      "nearby",
+      "close"
+    ],
+    "example": "The old farmer pointed to the hills yonder and said that was where he grew up.",
+    "day": 20
+  },
+  {
+    "word": "Yokel",
+    "pronunciation": "YOH-kul",
+    "definition": "An unsophisticated country person; a rustic.",
+    "synonyms": [
+      "rustic",
+      "bumpkin",
+      "hick"
+    ],
+    "antonyms": [
+      "sophisticate",
+      "cosmopolitan",
+      "urbanite"
+    ],
+    "example": "The city visitors laughed at themselves for looking like yokels in the busy market.",
+    "day": 20
+  },
+  {
+    "word": "Yule",
+    "pronunciation": "YOOL",
+    "definition": "The Christmas festival; the period immediately before and after Christmas Day.",
+    "synonyms": [
+      "Christmas",
+      "holiday",
+      "Noel"
+    ],
+    "antonyms": [
+      "midsummer",
+      "ordinary day"
+    ],
+    "example": "The whole family gathered to celebrate Yule with singing and a feast.",
+    "day": 20
+  },
+  {
+    "word": "Yuppie",
+    "pronunciation": "YUP-ee",
+    "definition": "A well-paid young middle-class professional who works in a city job.",
+    "synonyms": [
+      "professional",
+      "urbanite",
+      "careerist"
+    ],
+    "antonyms": [
+      "bohemian",
+      "hippie",
+      "rural worker"
+    ],
+    "example": "The cafe was popular with yuppies who liked to work on their laptops over expensive coffee.",
+    "day": 20
+  },
+  {
+    "word": "Yowza",
+    "pronunciation": "YOW-zuh",
+    "definition": "An exclamation used to express excitement, approval, or surprise.",
+    "synonyms": [
+      "wow",
+      "amazing",
+      "incredible"
+    ],
+    "antonyms": [
+      "boring",
+      "meh",
+      "unremarkable"
+    ],
+    "example": "Yowza! That was the most incredible goal I have ever seen!",
+    "day": 20
+  },
+  {
+    "word": "Zenith",
+    "pronunciation": "ZEE-nith",
+    "definition": "The time at which something is most powerful or successful; the point directly above an observer.",
+    "synonyms": [
+      "peak",
+      "pinnacle",
+      "apex"
+    ],
+    "antonyms": [
+      "nadir",
+      "bottom",
+      "lowest point"
+    ],
+    "example": "At the zenith of her career, she had won three world championships.",
+    "day": 20
+  },
+  {
+    "word": "Zealot",
+    "pronunciation": "ZEL-ut",
+    "definition": "A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.",
+    "synonyms": [
+      "fanatic",
+      "extremist",
+      "enthusiast"
+    ],
+    "antonyms": [
+      "moderate",
+      "indifferent",
+      "sceptic"
+    ],
+    "example": "A zealot for recycling, he would retrieve cans from the bin to sort them correctly.",
+    "day": 20
+  },
+  {
+    "word": "Zest",
+    "pronunciation": "ZEST",
+    "definition": "Great enthusiasm and energy; the outer coloured rind of a citrus fruit used for flavouring.",
+    "synonyms": [
+      "enthusiasm",
+      "gusto",
+      "vitality"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "lethargy"
+    ],
+    "example": "She approached every challenge with the same infectious zest for life.",
+    "day": 20
+  }
+]
